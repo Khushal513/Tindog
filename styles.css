@@ -1,0 +1,220 @@
+body
+{
+  font-family: "Montserrat";
+}
+#title
+{
+  background-color: #FF4C68;
+  color: #fff;
+}
+h1
+{
+  font-family:"Montserrat-Black",sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+.container-fluid
+{
+  padding: 3% 15% 6%;
+}
+.navbar-brand
+{
+  font-family:"Ubuntu";
+  font-size: 2.5rem;
+}
+.navbar
+{
+  padding:0 0 4.5rem;
+}
+.nav-item
+{
+  padding: 0 18px;
+}
+.nav-link
+{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light"
+}
+.download-button
+{
+  margin: 5% 3% 5% 0;
+}
+.Img
+{
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 27%;
+}
+.icons
+{
+  color: #ef8172;
+}
+.easy-to-use
+{
+  font-family: "Montserrat-bold",sans-serif;
+  font-size: 2rem;
+  margin-top: 5%;
+}
+.elite-clientele
+{
+  font-family: "Montserrat-bold",sans-serif;
+  font-size: 2rem;
+  margin-top: 5%;
+}
+.guar-to-work
+{
+  font-family: "Montserrat-Bold",sans-serif;
+  font-size: 2rem;
+  margin-top: 5%;
+}
+#features
+{
+  text-align: center;
+  padding: 10% 3%;
+  background-color: #fff;
+  position: relative;
+
+}
+.icons:hover
+{
+  color: #ff4c68;
+}
+.E
+{
+
+  margin-right: 5rem;
+  margin-left: 4rem;
+}
+.U
+{
+    margin-right: 4rem;
+    margin-left: 5rem;
+}
+.A
+{
+  margin-left: 1.5rem;
+}
+h3
+{
+  font-family: "Montserrat-bold",sans-serif;
+  font-weight: 700;
+}
+#testimonials
+{
+  padding: 7% 7%;
+  text-align: center;
+  background-color:#FF4C68;
+  color: #fff;
+}
+h2
+{
+  font-family: "Montserrat-bold",sans-serif;
+  font-weight: 600;
+  line-height: 3rem;
+  font-size: 2.5rem;
+  padding-bottom: 2rem;
+  width: 50rem;
+  margin: 0 auto;
+}
+.spanner
+{
+  text-decoration: underline;
+}
+.Testimonials-img
+{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+  margin-left: 10em;
+}
+em
+{
+  position: relative;
+  top: 8rem;
+  right: 11.5rem;
+
+}
+#press
+{
+  background-color: #FF4C68;
+  text-align: center;
+}
+.press-img
+{
+  width: 15%;
+  margin: 20px 50px 50px;
+}
+.carousel-item
+{
+  padding: 7% 15%;
+}
+#pricing
+{
+  padding: 7% 15%;
+}
+.h22
+{
+  text-align: center;
+}
+.p22
+{
+  text-align: center;
+}
+.prices
+{
+  padding: 5% 2% 2%;
+}
+@media (max-width: 992px)
+{
+  .Img
+  {
+    position: static;
+    transform: rotate(0);
+  }
+  #title
+  {
+    text-align: center;
+  }
+  .nav-item
+  {
+    text-align: right;
+  }
+}
+#cta
+{
+  background-color: #FF4C68;
+  padding: 5% 3% 2%;
+  text-align: center;
+}
+.true-love
+{
+  font-family: "Montserrat",sans-serif;
+  font-weight: 600;
+  font-size: 3rem;
+  color: #fff;
+  width: 70%;
+  margin: 0 auto;
+}
+.but-1
+{
+  margin-right: 2rem;
+}
+#footer
+{
+  text-align: center;
+
+  padding-top: 3%;
+}
+.end
+{
+  margin: auto 10px;
+  margin-bottom:2em;
+}
+.last
+{
+  color: #808080;
+  margin:auto;
+  margin-bottom: 3em;
+}
